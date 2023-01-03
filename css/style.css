@@ -1096,12 +1096,6 @@ h6 {
   }
 }
 
-@media (max-width: 47.99875em) {
-  .section-footer {
-    min-height: 100vh;
-  }
-}
-
 @media (max-height: 450px) {
   .section-header {
     height: 100%;
