@@ -288,6 +288,10 @@ h6 {
   color: #A9A32A;
 }
 
+.header {
+  background-color: transparent;
+}
+
 .no-webp .section-header{
   background: url("../img/bg.jpg") no-repeat 50% 50%; }
 
