@@ -3707,7 +3707,8 @@
             speed: 1e3,
             pagination: {
                 el: "swiper-pagination",
-                clickable: true
+                clickable: true,
+                type: "bullets"
             },
             navigation: {
                 nextEl: ".green-slider-button-next",
